@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import styles from "./Game.module.css";
 
-import GameOption from "../gameOption/Gameoption";
+import GameOption from "../gameOption/GameOption";
 import GameInfo from "../gameInfo/GameInfo";
 import Score from "../score/Score";
 
